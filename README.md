@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:81BEF7,100:2ECCFA&height=180&section=header&text=🏊🏊‍♂️♀️&fontSize=30&fontColor=585858&fontAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:81BEF7,100:2ECCFA&height=180&section=header&text=🐟&fontSize=30&fontColor=585858&fontAlign=85)
 
 <h4>🐰Welcome to my space!💗🥕</h4>
 
