@@ -2,7 +2,7 @@
 <h4>🐰Hi there!💗🥕</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bomcarrot&layout=compact)](https://github.com/bomcarrot/bomcarrot)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomcarrot)](https://github.com/bomcarrot/bomcarrot)
+[[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomcarrot)](https://github.com/bomcarrot/bomcarrot)
 
 
  
