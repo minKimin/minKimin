@@ -17,7 +17,7 @@
 </p>
 
 
-<a href="https://github.com/minkimin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=/minkimin&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="/minkimin's github stats" ></a><a href="https://github.com//minkimin//minkimin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/minkimin&layout=compact&theme=default&&hide_border=true" ></a> 
+<a href="https://github.com/minkimin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=/minkimin&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="/minkimin's github stats" ></a><a href="https://github.com/minkimin/minkimin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/minkimin&layout=compact&theme=default&&hide_border=true" ></a> 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:81BEF7,100:2ECCFA&height=80&section=footer)
 
