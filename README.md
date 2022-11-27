@@ -13,15 +13,8 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  
+
 </p>
 
 
-<a href="https://github.com/minkimin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=/minkimin&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="/minkimin's github stats" ></a><a href="https://github.com/minkimin/minkimin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/minkimin&layout=compact&theme=default&&hide_border=true" ></a> 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:81BEF7,100:2ECCFA&height=80&section=footer)
-
-
-
-
-
+<a href="https://github.com/minkimin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=minkimin&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="minkimin's github stats" ></a><a href="https://github.com/minkimin/minkimin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkimin&layout=compact&theme=default&&hide_border=true" ></a> 
